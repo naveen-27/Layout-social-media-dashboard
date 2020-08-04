@@ -4,7 +4,7 @@ The page is written in HTML and CSS. Challenge from "Frontendmentor.io".
 
 ### Screenshots
 
-<img src="./screenshots/Desktop-light.png">
-<img src="./screenshots/Desktop-dark.png">
-<img src="./screenshots/Mobile-light.png">
-<img src="./screenshots/Mobile-dark.png">
+![image1](https://raw.githubusercontent.com/naveen-27/Layout-social-media-dashboard/master/screenshots/Desktop-light.png)
+![image2](https://raw.githubusercontent.com/naveen-27/Layout-social-media-dashboard/master/screenshots/Desktop-dark.png)
+![image3](https://raw.githubusercontent.com/naveen-27/Layout-social-media-dashboard/master/screenshots/Mobile-light.png)
+![image4](https://raw.githubusercontent.com/naveen-27/Layout-social-media-dashboard/master/screenshots/Mobile-dark.png)
