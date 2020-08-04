@@ -8,7 +8,7 @@ toggle.addEventListener('click', () => {
                              ? 'translateX(100%)' : 'translateX(0%)';
 
     let color = theme.attributes.href.nodeValue;
-    theme.attributes.href.nodeValue = (color === './stylesheets/light.css') ? './stylesheets/dark.css' : './stylesheets/light.css';
+    theme.attributes.href.nodeValue = (color === './light.css') ? './dark.css' : './light.css';
 
     text.innerText = (text.innerText === 'Light Mode' ? 'Dark Mode' : 'Light Mode');
 });
