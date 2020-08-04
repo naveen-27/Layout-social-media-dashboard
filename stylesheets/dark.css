@@ -1,0 +1,8 @@
+* {
+    --background-color: hsl(230, 17%, 14%);
+    --card-background: hsl(228, 28%, 20%);
+    --muted-text: hsl(228, 34%, 66%);
+    --text-color: hsl(0, 0%, 100%);
+    --toggle: linear-gradient(45deg, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+    --card-hover: hsl(230, 35%, 16%);
+}
